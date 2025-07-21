@@ -10,7 +10,7 @@ This repository contains a simple **Node.js Express** application, fully Dockeri
 - Dockerize the application
 - Push image to **DockerHub**
 - Deploy the app to an EC2 instance via **GitHub Actions**
-- App should be accessible on port **4424** (last 4 digits of roll number)
+- App should be accessible on port **7982** 
 
 ---
 
